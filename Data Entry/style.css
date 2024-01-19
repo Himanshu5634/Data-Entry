@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.f {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+.f form {
+    display: flex;
+}
+
+.f form div {
+    margin-right: 1rem;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-left: 29rem;
+    width: 40%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th,
+td {
+    border: 1px solid #111;
+    padding: 8px;
+    text-align: left;
+}
+
+
+button {
+    cursor: pointer;
+}
+
+p,span{
+    font-weight: 700;
+    font-size: 1.3rem;
+}
