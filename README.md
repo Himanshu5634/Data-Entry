@@ -7,6 +7,6 @@ This is a simple data entry project created using HTML, CSS, and JavaScript. The
 →Validation: Basic validation is implemented to ensure that essential fields are filled before submitting the form.
 
 ## Technologies Used
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
